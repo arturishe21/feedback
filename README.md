@@ -1,4 +1,4 @@
-Для корректной работы нужен еще установить пакет https://github.com/arturishe21/mail-templates
+Для корректной работы нужно еще установить пакет https://github.com/arturishe21/mail-templates
 
 В composer.json добавляем в блок require
 ```json
