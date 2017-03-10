@@ -22,8 +22,8 @@ class FeedbackController extends Controller
 
         return Response::json(
             array(
-                "status"=>"success",
-                "text"=>"Спасибо. Скоро с Вами свяжуться "
+                "status" => "success",
+                "text" => __("Спасибо. Скоро с Вами свяжуться")
             ));
     }
 }
